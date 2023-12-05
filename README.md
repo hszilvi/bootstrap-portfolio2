@@ -23,7 +23,7 @@ bootstrap-portfolio screenshot ![screen shots desktopview](./assets/images/deskt
 
 ### Links
 bootstrap-portfolio on github[https://github.com/hszilvi/bootstrap-portfolio2]
-live link[]
+live link[https://hszilvi.github.io/bootstrap-portfolio2/]
 
 ## My_process
 I recreated the layout was given using Bootstrap. I used Bootstrap's in-built styles.
