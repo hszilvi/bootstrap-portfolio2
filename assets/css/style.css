@@ -1,0 +1,85 @@
+:root {
+    --infoblue: #5bc0de;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+body {
+    margin: 0 auto;
+}
+/* navbar */
+.custom-navbar-brand:hover {
+    color: white;
+}
+.custom-nav {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.custom-nav-link {
+    font-weight: 500;
+    font-size: 1.2em;
+}
+.custom-nav-link:hover {
+    text-decoration: underline;
+    opacity: .5;
+}
+.custom-toggler-btn {
+    border: 2px solid var(--infoblue);
+}
+
+/* hero section */
+.custom-hero {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding-top: 3.63em;
+}
+.custom-h1 {
+    max-width: 12em;
+    bottom: .5em;
+    right: .5em;
+
+}
+.custom-img-container {
+    max-height: 20em;
+}
+
+/* work section */
+.custom-card {
+    max-height: 250px;
+}
+.custom-card:hover {
+    opacity: 0.7;
+}
+.custom-card-img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.custom-card-img-overlay {
+    max-width: 9em;
+    max-height: 4em;
+    bottom: 0.5em;
+    right: 0.5em;
+}
+.custom-card-sm {
+    max-height: 120px;
+}
+.custom-card-sm:hover {
+    opacity: .7;
+}
+
+/* contact section */
+.custom-contact-links-container {
+    margin: 0 auto;
+    min-height: 5em;
+}
+
+/* footer */
+.custom-footer {
+    max-width: 1440px;
+    margin: 0 auto;
+}
