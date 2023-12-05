@@ -46,11 +46,6 @@ body {
 .custom-img-container {
     max-height: 20em;
 }
-/* work section */
-/* .custom-row { */
-    /* max-height: 300px; */
-    /* border: 2px solid red; */
-/* } */
 .custom-card:hover {
     opacity: .7;
 }
@@ -58,20 +53,12 @@ body {
     max-height: 140px;
     object-fit: cover;
 }
-/* .custom-card-body {
-    min-height: 100px;
-    /* max-height: 170px; */
-    
-/* } */
-
-
 
 /* contact section */
 .custom-contact-links-container {
     margin: 0 auto;
     min-height: 5em;
 }
-
 /* footer */
 .custom-footer {
     max-width: 1440px;
