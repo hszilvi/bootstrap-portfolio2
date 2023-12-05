@@ -1,4 +1,4 @@
-# bootstrap-portfolio (front-end only)
+# bootstrap-portfolio2 (front-end only)
 
 
 # Table of content
@@ -14,7 +14,7 @@
 [Sources](#Sources)
 
 # Overview
-This is the solution of the 3rd week challange, bootstrap-portfolio. In this challange I had to make at least 10 commits to github, recreate the portfolio website from scratch using Bootstrap. 
+This is the second solution of the 3rd week challange, bootstrap-portfolio. I recreated the challange to practice card layout with bootstrap. 
 
 ## Screenshots
 
@@ -22,8 +22,8 @@ bootstrap-portfolio screenshot ![screen shots desktopview](./assets/images/deskt
 [screenshot mobileview](./assets/images/mobile-view.png)
 
 ### Links
-bootstrap-portfolio on github[https://github.com/hszilvi/bootstrap-portfolio]
-live link[https://hszilvi.github.io/bootstrap-portfolio/]
+bootstrap-portfolio on github[https://github.com/hszilvi/bootstrap-portfolio2]
+live link[]
 
 ## My_process
 I recreated the layout was given using Bootstrap. I used Bootstrap's in-built styles.
