@@ -46,8 +46,12 @@ body {
 .custom-img-container {
     max-height: 20em;
 }
-
 /* work section */
+.custom-card:hover {
+    opacity: .7;
+}
+
+/* work section
 .custom-card {
     max-height: 250px;
 }
@@ -70,7 +74,7 @@ body {
 }
 .custom-card-sm:hover {
     opacity: .7;
-}
+} */
 
 /* contact section */
 .custom-contact-links-container {
